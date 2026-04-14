@@ -118,23 +118,11 @@ A high-performance and production-ready API designed to control and monitor requ
   <a href="https://github.com/iamdevlucas123">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com/in/lucas-borges-1a723b180/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your-email@email.com">
+  <a href="mailto:lucasflacborges121@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## ☕ Support Me
-
-If you like my work, consider supporting my journey.
-
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7931E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
   </a>
 </p>
 
