@@ -1,155 +1,140 @@
 <h1 align="center">Hi there, I'm Lucas Borges 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Web Developer | Software Engineer in Training | Tech Enthusiast</strong>
+  <strong>Full-Stack Developer | Future Computational Physicist | Tech Enthusiast</strong>
 </p>
 
 <p align="center">
-  Passionate about building scalable applications, exploring scientific computing, and creating impactful digital solutions.
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=for-the-badge" />
   </a>
-  <a href="mailto:your@email.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student
-- 💻 Aspiring **Full-Stack Web Developer**
-- 🌍 Based in Brazil, aiming for international opportunities
-- ☁️ Preparing for **AWS Solutions Architect – Associate**
-- 🧠 Passionate about **Physics, Mathematics, and Computational Science**
-- 📚 Lifelong learner focused on technology and innovation
-- 🎯 Goal: Build impactful software and launch my own tech company
+🎯 Passionate about building scalable and impactful software solutions.  
+💻 Full-Stack Developer focused on modern web technologies.  
+📚 Lifelong learner dedicated to science, engineering, and innovation.  
+🌍 Aspiring to work internationally, especially in Europe.  
+🔬 Future Computational Physicist with a strong interest in mathematics and physics.
+
+- 🎓 Studying **Computer Science**
+- ☁️ Preparing for the **AWS Solutions Architect – Associate**
+- 🌐 Building high-quality projects for my portfolio
+- 🧠 Interested in **Artificial Intelligence, Data Science, and Cloud Computing**
+- 🏄 Surfer and technology enthusiast
 
 ---
 
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-
-### 🗄️ Databases & ORM
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,react,nextjs,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,aws,git,github,linux,tailwind,html,css,vscode" />
 </p>
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Stats
 
-### 🔹 QuantumEd
-A modern educational platform inspired by Educative.io.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-- ⚛️ Courses in Physics, Mathematics, and Engineering
-- 🌐 Built with React, Node.js, and PostgreSQL
-- 📚 Designed for interactive and text-based learning
-
-### 🔹 DevOps CLI Automation
-A command-line tool for automating development workflows.
-
-- 🐳 Docker integration
-- 🔄 CI/CD with GitHub Actions
-- 🐧 Linux-based automation
-
-### 🔹 Real Estate SaaS Platform
-A cloud-based SaaS solution for real estate commercialization.
-
-- 📈 Lead generation and automation
-- 🤖 AI-powered WhatsApp SDR
-- ☁️ Hosted in the cloud
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🎓 Certifications & Education
+## 💼 Featured Projects
 
-- 🎓 BSc in Computer Science (In Progress)
-- ☁️ AWS Solutions Architect – Associate (In Progress)
-- 💻 Meta Full Stack Developer Professional Certificate
-- 🌐 IELTS Certification (Planned)
-- 🇩🇪 Goethe-Zertifikat (Planned)
+### 📚 Educational Platform
+A modern learning platform focused on Physics, Mathematics, and Engineering.
+
+**Tech Stack:** React, Node.js, PostgreSQL, Prisma, Docker  
+🔗 https://github.com/your-username
 
 ---
 
-## 📚 Currently Learning
+### 🤖 AI-Powered SDR SaaS
+A multi-tenant SaaS for automated lead qualification and scheduling.
 
-- Advanced System Design
-- Cloud Architecture with AWS
-- Microservices and Distributed Systems
-- Computational Physics
+**Tech Stack:** FastAPI, OpenAI API, Redis, PostgreSQL, Docker  
+🔗 https://github.com/your-username
+
+---
+
+### 🌐 Full-Stack Web Applications
+Production-ready applications demonstrating scalable architectures.
+
+**Tech Stack:** React, Next.js, Node.js, AWS, CI/CD  
+🔗 https://github.com/your-username
+
+---
+
+## 📈 Current Goals
+
+- 📌 Master **System Design and Cloud Architecture**
+- ☁️ Achieve **AWS Solutions Architect Certification**
+- 🧠 Advance in **Artificial Intelligence and Computational Physics**
+- 🌍 Secure an international remote opportunity
+- 🚀 Launch my own technology company
+
+---
+
+## 📖 Currently Learning
+
+- Advanced Algorithms and Data Structures
+- Distributed Systems and Microservices
+- Cloud Computing with AWS
 - Artificial Intelligence and Machine Learning
+- Numerical Methods for Scientific Computing
 
 ---
 
-## 🌍 Languages
-
-- 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Advanced
-- 🇩🇪 German — Intermediate (In Progress)
-
----
-
-## 📫 Connect With Me
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/your-username">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:your-email@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-## 💡 Developer Philosophy
+## ☕ Support Me
 
-```text
-"First, solve the problem. Then, write the code."
-– John Johnson
+If you like my work, consider supporting my journey.
+
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-F7931E?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## ✨ Quote to Live By
+
+<p align="center">
+  <i>"The best way to predict the future is to create it."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <strong>Lucas Borges</strong>
+</p>
