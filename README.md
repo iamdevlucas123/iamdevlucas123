@@ -94,6 +94,25 @@ A high-performance and production-ready API designed to control and monitor requ
 **Tech Stack:** Node.js, Express, Redis, Docker, NGINX, PostgreSQL  
 🔗 https://github.com/iamdevlucas123
 
+---
+
+### 📡 Intelligent API Monitoring Platform
+A robust and scalable platform designed to monitor, analyze, and optimize API performance in real time. Built with modern technologies, it provides deep insights into system health, reliability, and availability.
+
+**Key Features:**
+- Real-time API performance monitoring and alerting
+- Asynchronous background processing with Celery
+- Distributed task queues powered by Redis
+- Metrics collection for latency, uptime, and error rates
+- Interactive dashboards with data visualization
+- Automated notifications for incidents and anomalies
+- Scalable and cloud-ready architecture
+
+**Tech Stack:** Python, Celery, Redis, PostgreSQL, React, Docker  
+🔗 https://github.com/iamdevlucas123/api-monitoring-platform
+
+---
+
 ## 📈 Current Goals
 
 - 📌 Master **System Design and Cloud Architecture**
