@@ -33,7 +33,7 @@
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,aws,git,github,linux,tailwind,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,react,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,aws,git,github,linux,tailwind,html,css,vscode" />
 </p>
 
 ---
