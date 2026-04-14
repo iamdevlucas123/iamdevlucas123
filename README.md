@@ -5,13 +5,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?label=Followers&style=for-the-badge" />
+  <a href="https://github.com/iamdevlucas123">
+    <img src="https://img.shields.io/github/followers/iamdevlucas123?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/stars/your-username?affiliations=OWNER&style=for-the-badge" />
+  <a href="https://github.com/iamdevlucas123">
+    <img src="https://img.shields.io/github/stars/iamdevlucas123?affiliations=OWNER&style=for-the-badge" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-username&style=for-the-badge&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=iamdevlucas123&style=for-the-badge&color=blue" alt="Profile Views"/>
 </p>
 
 ---
@@ -21,21 +21,19 @@
 🎯 Passionate about building scalable and impactful software solutions.  
 💻 Full-Stack Developer focused on modern web technologies.  
 📚 Lifelong learner dedicated to science, engineering, and innovation.  
-🌍 Aspiring to work internationally, especially in Europe.  
+🌍 Aspiring to work internationally.  
 🔬 Future Computational Physicist with a strong interest in mathematics and physics.
 
 - 🎓 Studying **Computer Science**
 - ☁️ Preparing for the **AWS Solutions Architect – Associate**
 - 🌐 Building high-quality projects for my portfolio
-- 🧠 Interested in **Artificial Intelligence, Data Science, and Cloud Computing**
-- 🏄 Surfer and technology enthusiast
 
 ---
 
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java,react,nextjs,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,aws,git,github,linux,tailwind,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,react,nodejs,express,fastapi,prisma,postgres,mysql,redis,docker,aws,git,github,linux,tailwind,html,css,vscode" />
 </p>
 
 ---
@@ -43,41 +41,58 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamdevlucas123&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdevlucas123&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamdevlucas123&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamdevlucas123&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iamdevlucas123&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iamdevlucas123&theme=tokyonight" />
 </p>
 
 ---
 
 ## 💼 Featured Projects
 
-### 📚 Educational Platform
-A modern learning platform focused on Physics, Mathematics, and Engineering.
+### 📚 Quantum Ed
+A modern and interactive learning platform focused on Physics, Mathematics, and Engineering. Designed to provide high-quality educational content through a scalable and intuitive user experience.
+
+**Key Features:**
+- Structured courses with modules and lessons
+- Interactive and responsive UI
+- RESTful API integration
+- Scalable and maintainable architecture
 
 **Tech Stack:** React, Node.js, PostgreSQL, Prisma, Docker  
-🔗 https://github.com/your-username
+🔗 https://github.com/iamdevlucas123
 
 ---
 
-### 🤖 AI-Powered SDR SaaS
-A multi-tenant SaaS for automated lead qualification and scheduling.
+### 🤖 Kanban Task Manager
+A productivity-focused Kanban application designed to streamline task and project management. Built with a scalable architecture and modern development practices.
 
-**Tech Stack:** FastAPI, OpenAI API, Redis, PostgreSQL, Docker  
-🔗 https://github.com/your-username
+**Key Features:**
+- Drag-and-drop task management
+- Workspace and board organization
+- Real-time updates and progress tracking
+- Secure and responsive design
 
----
-
-### 🌐 Full-Stack Web Applications
-Production-ready applications demonstrating scalable architectures.
-
-**Tech Stack:** React, Next.js, Node.js, AWS, CI/CD  
-🔗 https://github.com/your-username
+**Tech Stack:** FastAPI, PostgreSQL, Redis, Docker, OpenAI API  
+🔗 https://github.com/iamdevlucas123
 
 ---
+
+### 🌐 Global Rate Limiting API
+A high-performance and production-ready API designed to control and monitor request traffic across distributed systems, ensuring security, reliability, and scalability.
+
+**Key Features:**
+- Distributed rate limiting using Redis
+- Protection against abuse and DDoS attacks
+- Configurable throttling policies
+- RESTful architecture with high performance
+- Cloud-ready deployment
+
+**Tech Stack:** Node.js, Express, Redis, Docker, NGINX, PostgreSQL  
+🔗 https://github.com/iamdevlucas123
 
 ## 📈 Current Goals
 
@@ -85,7 +100,6 @@ Production-ready applications demonstrating scalable architectures.
 - ☁️ Achieve **AWS Solutions Architect Certification**
 - 🧠 Advance in **Artificial Intelligence and Computational Physics**
 - 🌍 Secure an international remote opportunity
-- 🚀 Launch my own technology company
 
 ---
 
@@ -95,14 +109,13 @@ Production-ready applications demonstrating scalable architectures.
 - Distributed Systems and Microservices
 - Cloud Computing with AWS
 - Artificial Intelligence and Machine Learning
-- Numerical Methods for Scientific Computing
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/iamdevlucas123">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
   </a>
   <a href="https://www.linkedin.com">
