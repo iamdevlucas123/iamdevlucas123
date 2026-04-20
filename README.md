@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Lucas Borges 👋</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer | Future Computational Physicist | Tech Enthusiast</strong>
+  <strong>Full-Stack Developer | Tech Enthusiast</strong>
 </p>
 
 <p align="center">
