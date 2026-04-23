@@ -22,7 +22,6 @@
 💻 Full-Stack Developer focused on modern web technologies.  
 📚 Lifelong learner dedicated to science, engineering, and innovation.  
 🌍 Aspiring to work internationally.  
-🔬 Future Computational Physicist with a strong interest in mathematics and physics.
 
 - 🎓 Studying **Computer Science**
 - ☁️ Preparing for the **AWS Solutions Architect – Associate**
