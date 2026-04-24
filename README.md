@@ -116,7 +116,7 @@ A robust and scalable platform designed to monitor, analyze, and optimize API pe
 
 - 📌 Master **System Design and Cloud Architecture**
 - ☁️ Achieve **AWS Solutions Architect Certification**
-- 🧠 Advance in **Artificial Intelligence and Computational Physics**
+- 🧠 Advance in **Artificial Intelligence**
 - 🌍 Secure an international remote opportunity
 
 ---
