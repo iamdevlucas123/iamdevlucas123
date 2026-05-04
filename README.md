@@ -61,8 +61,7 @@ A modern and interactive learning platform focused on Physics, Mathematics, and 
 - RESTful API integration
 - Scalable and maintainable architecture
 
-**Tech Stack:** React, Node.js, PostgreSQL, Prisma, Docker  
-🔗 https://github.com/iamdevlucas123
+**Tech Stack:** React, Node.js, PostgreSQL, Prisma, Docker.
 
 ---
 
@@ -75,8 +74,7 @@ A productivity-focused Kanban application designed to streamline task and projec
 - Real-time updates and progress tracking
 - Secure and responsive design
 
-**Tech Stack:** FastAPI, PostgreSQL, Redis, Docker, OpenAI API  
-🔗 https://github.com/iamdevlucas123
+**Tech Stack:** FastAPI, PostgreSQL, Redis, Docker, OpenAI API.
 
 ---
 
@@ -90,8 +88,7 @@ A high-performance and production-ready API designed to control and monitor requ
 - RESTful architecture with high performance
 - Cloud-ready deployment
 
-**Tech Stack:** Node.js, Express, Redis, Docker, NGINX, PostgreSQL  
-🔗 https://github.com/iamdevlucas123
+**Tech Stack:** Node.js, Express, Redis, Docker, NGINX, PostgreSQL.
 
 ---
 
@@ -107,8 +104,7 @@ A robust and scalable platform designed to monitor, analyze, and optimize API pe
 - Automated notifications for incidents and anomalies
 - Scalable and cloud-ready architecture
 
-**Tech Stack:** Python, Celery, Redis, PostgreSQL, React, Docker  
-🔗 https://github.com/iamdevlucas123/api-monitoring-platform
+**Tech Stack:** Python, Celery, Redis, PostgreSQL, React, Docker.
 
 ---
 
